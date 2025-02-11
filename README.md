@@ -41,15 +41,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arp1it&show_icons=true&theme=radical&hide_border=true" width="48%">
-  <img src="https://streak-stats.demolab.com?user=Arp1it&theme=radical&hide_border=true" width="48%">
-</p>
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
