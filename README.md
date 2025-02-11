@@ -6,13 +6,15 @@
 
 - 🐍 **Mainly a Python programmer**, currently working with the **Django framework**.
 - 💻 Learning **C** and **React.js**.
-- 🌐 Familiar with **JavaScript (basics)** and **Bootstrap**.
+- 🌐 Familiar with **JavaScript (basics), Bootstrap, and HTML5**.
 - 🏗️ Have experience with **Flask, Pandas**, and many more Python frameworks in the past.
-- 🛠️ Know **GitHub** (basic version controlling).
+- 🛠️ Knowledgeable in **GitHub** (basic version controlling).
 - 🕵️‍♂️ Explored **malware development** over the past few months.
 - 🎯 Passionate about **Cybersecurity, AI, and Software Development**.
 - 📚 Always learning and exploring new technologies.
 - ⚡ Fun Fact: I love **building and breaking things** to understand them better!
+
+---
 
 ## 🛠️ Technologies & Tools
 
@@ -23,8 +25,11 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> 
 </p>
+
+---
 
 ## 🌍 Connect with Me
 
@@ -34,6 +39,8 @@
 <a href="https://github.com/Arp1it" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -41,11 +48,15 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arp1it&theme=radical&hide_border=true" width="50%">
 </p>
 
+---
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Arp1it&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%">
 </p>
+
+---
 
 ## 💡 Random Dev Quotes
 
@@ -58,3 +69,5 @@
 ---
 
 💻 **Keep coding, keep innovating!** 🚀🔥
+
+
