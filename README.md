@@ -16,7 +16,6 @@
 - ⚡ Fun Fact: I love **building and breaking things** to understand them better!
 
 ---
-![image](https://github.com/Arp1it/Arp1it/blob/main/header.gif)
 
 ## 🛠️ Technologies & Tools
 
@@ -31,6 +30,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> 
 </p>
 
+![image](https://github.com/Arp1it/Arp1it/blob/main/header.gif)
 ---
 
 ## 🌍 Connect with Me
