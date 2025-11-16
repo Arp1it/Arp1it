@@ -3,7 +3,6 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=35&fontAlignY=40)
 
-![image](https://github.com/Arp1it/Arp1it/blob/main/header.gif)
 ## 🚀 About Me
 
 - 🐍 **Mainly a Python programmer**, currently working with the **Django framework**.
@@ -17,6 +16,7 @@
 - ⚡ Fun Fact: I love **building and breaking things** to understand them better!
 
 ---
+![image](https://github.com/Arp1it/Arp1it/blob/main/header.gif)
 
 ## 🛠️ Technologies & Tools
 
