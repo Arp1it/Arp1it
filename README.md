@@ -1,4 +1,4 @@
-![image]([https://github.com/SatyamPrakash09/SatyamPrakash09/blob/main/header.gif](https://github.com/Arp1it/Arp1it/blob/main/header.gif))
+![image](https://github.com/Arp1it/Arp1it/blob/main/header.gif)
 
 # Hi there! I'm Arpit Jaiswal (.Echo Cipher) 🚀🔥
 
