@@ -64,7 +64,7 @@
 
 ---
 
-## 💡 Random Dev Quotes
+## 💡 Favourite Dev Quotes
 
 > "Talk is cheap. Show me the code." – Linus Torvalds
 
