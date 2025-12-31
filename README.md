@@ -56,11 +56,7 @@
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Arp1it&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%">
-</p>
-
- ### 🔝 Top Contributed Repo
-  ![](https://github-contributor-stats.vercel.app/api?username=Arp1it&limit=5&theme=dark&combine_all_yearly_contributions=true)
-  
+</p>  
 
 ---
 
