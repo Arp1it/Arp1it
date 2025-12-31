@@ -45,22 +45,23 @@
 </a>
 </p>
 
-<div align="center">
 ---
+<div align="center">
 
 # 📊 GitHub Stats:
   ![](https://github-readme-stats.vercel.app/api?username=Arp1it&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)
   ![](https://nirzak-streak-stats.vercel.app/?user=Arp1it&theme=gotham&hide_border=false)
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arp1it&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  
+</div>
 
 ## 🏆 GitHub Trophies
 
-<!-- <p align="center"> -->
+<p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Arp1it&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%">
-<!-- </p>   -->
+</p>  
 
 ---
-</div>
 
 ## 💡 Favourite Dev Quotes
 
